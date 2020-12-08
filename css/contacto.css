@@ -1,0 +1,52 @@
+a:hover{
+    color: black;
+    background-color: rgba(201, 201, 201, 0.637);
+}
+
+a:link{
+    text-decoration: none;
+}
+
+.header{
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.2em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;  
+}
+
+.Contacto{
+    font-weight: bold;
+}
+
+.caja{
+    box-sizing: border-box;
+    background-color: rgba(216, 216, 216, 0.767);
+    height: 30em;
+    width: 30em;
+    border: solid rgb(53, 53, 53);
+    border-radius: 0.5em;
+}
+
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.formulario{
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   font-family: 'Raleway';
+   
+}
+
+.mensaje{
+   font-family: 'Raleway';
+   text-align: justify;
+}
+
+.button{
+   cursor: pointer;
+}

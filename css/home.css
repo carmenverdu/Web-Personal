@@ -1,6 +1,6 @@
 a:hover{
     color: black;
-    background-color: rgba(235, 235, 235, 0.637);
+    background-color: rgba(201, 201, 201, 0.637);
 }
 
 a:link{
@@ -17,44 +17,5 @@ a:link{
 
 .Home{
     font-weight: bold;
-}
-
-.Sobremi{
-    font-weight: bold;
-}
-
-.Contacto{
-    font-weight: bold;
-}
-
-.vacio{
-    display: flex;
-    flex-direction: row;
-    background-color: white;
-    width: 100%
-    
-}
-
-.caja{
-     box-sizing: border-box;
-     background-color: rgba(216, 216, 216, 0.767);
-     height: 30em;
-     width: 30em;
-     border: solid rgb(124, 124, 124);
-     align-items: center;
-
-}
-
-.formulario{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    font-family: 'Raleway';
-    
-}
-
-.mensaje{
-    font-family: 'Raleway';
-    text-align: justify;
 }
 
